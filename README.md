@@ -1,6 +1,6 @@
 # A PostgreSQL Extension for CAS Numbers
 
-This project builds a Postgres extension capable of validating CAS Registry Numbers and generating random instances of them. Read more about it on the blog post.
+This project builds a Postgres extension capable of validating CAS Registry Numbers and generating random instances of them. Read more about it on [the blog post](https://depth-first.com/articles/2021/09/07/a-rust-postgresql-extension-for-cas-numbers/).
 
 ```sql
 drop extension if exists cas_number cascade;
