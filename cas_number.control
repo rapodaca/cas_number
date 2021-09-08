@@ -1,0 +1,5 @@
+comment = 'cas_number:  Created by pgx'
+default_version = '1.0'
+module_pathname = '$libdir/cas_number'
+relocatable = false
+superuser = false
